@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "background-generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimTarabay/Dom.git"
+  },
+  "author": "IbrahimTarabay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimTarabay/Dom/issues"
+  },
+  "homepage": "https://github.com/IbrahimTarabay/Dom#readme"
+}
